@@ -22,3 +22,11 @@ The project started with what looked like a tiny bug:
 ```text
 他
 " he"
+---
+
+## Full Paper
+
+📄 **[Read the full technical paper →](paper.md)**
+
+**Key production result:**  
+`155.273 s → 0.328 s` post-resource-defer continuation latency, while preserving the final ingestion result.
